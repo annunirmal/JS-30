@@ -1,3 +1,6 @@
+.container-fluid{
+    padding-bottom: 60px;
+}
 .heading {
     margin-top: 22px;
     margin-bottom: 60px;
