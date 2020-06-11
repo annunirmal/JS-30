@@ -2,3 +2,7 @@
     margin-top: 22px;
     margin-bottom: 60px;
 }
+.card {
+    min-height: 320px;
+    margin-bottom: 30px;
+}
